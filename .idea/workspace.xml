@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/djangoman/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#310#319#0" expanded="true" />
               </folding>
@@ -183,22 +183,22 @@
       <updated>1562683570657</updated>
       <workItem from="1562683573842" duration="414000" />
       <workItem from="1562684051309" duration="26160000" />
-      <workItem from="1562771773519" duration="2672000" />
+      <workItem from="1562771773519" duration="3010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29246000" />
+    <option name="totallyTimeSpent" value="29584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1295" y="23" width="1265" height="1337" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15044971" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15044971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,8 +398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/djangoman/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#310#319#0" expanded="true" />
           </folding>
