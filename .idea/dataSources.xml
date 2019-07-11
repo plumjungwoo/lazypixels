@@ -10,11 +10,11 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="djangoman@localhost" uuid="17795b21-8526-4bc5-b1b5-217bfcdc812e">
+    <data-source source="LOCAL" name="lazypixels@127.0.0.1" uuid="799ec6c8-e8f1-40ee-9053-95da53c0a2a1">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/djangoman</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/lazypixels</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
